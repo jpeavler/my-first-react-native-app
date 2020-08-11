@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Exploring React Native for the first time",
+    "githubUrl": "https://github.com/jpeavler/my-first-react-native-app"
   }
 }
